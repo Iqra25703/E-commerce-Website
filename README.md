@@ -1,2 +1,3 @@
 # E-commerce-Website
 I developed the front end of a sleek shopping website, featuring a user-friendly design and intuitive navigation for a smooth shopping experience.
+This project showcases a front-end shopping website developed using HTML, CSS, and a touch of JavaScript. The site features a responsive design that adjusts seamlessly to various devices, ensuring a consistent and user-friendly experience. With a focus on modern aesthetics and intuitive navigation, the layout is crafted to be both visually appealing and functional. JavaScript is employed to add interactive elements, enhancing overall user engagement. To view the site, simply clone the repository and open 'index.html' in your web browser. Contributions and feedback are welcome.
